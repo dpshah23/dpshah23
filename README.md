@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deep Shah</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpshah23&label=Profile%20views&color=0e75b6&style=flat" alt="dpshah23" /> </p>
 
