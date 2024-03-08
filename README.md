@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning , Android Devlopment**
 
-- 💬 Ask me about **Python , flask , django , java , PHP**
+- 💬 Ask me about **Python , flask , django , java , PHP , Machine Learning**
 
 - 📫 How to reach me **dpshah2307@gmail.com**
 
