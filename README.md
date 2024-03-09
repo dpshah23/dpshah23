@@ -14,6 +14,8 @@
 
 - 📄 Know about my experiences [https://dpshah23.github.io/dpshah23/](https://dpshah23.github.io/dpshah23/)
 
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpshah23" alt="dpshah23" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dpshah1232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dpshah1232" height="30" width="40" /></a>
