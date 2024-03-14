@@ -32,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dpshah23&show_icons=true&locale=en" alt="dpshah23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dpshah23&" alt="dpshah23" /></p>
+
+# Random Quotes
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
