@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpshah23" alt="dpshah23" /></a> </p>
 
-- 🔭 I’m currently working on **Desktop Assistant , Quiz App , Way2Menu**
+- 🔭 I’m currently working on **Expense Tracker , Way2Menu**
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning , Android Devlopment**
 
