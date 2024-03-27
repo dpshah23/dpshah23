@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Expense Tracker , Way2Menu**
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning , Android Devlopment**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning**
 
 - 💬 Ask me about **Python , flask , django , java , PHP , Machine Learning**
 
