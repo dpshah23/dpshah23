@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dpshah2307@gmail.com**
 
-- 📄 Know about my experiences [https://dpshah23.github.io/dpshah23/](https://dpshah23.github.io/dpshah23/)
+- 📄 Know about my experiences [https://dpshah23.github.io](https://dpshah23.github.io)
 
 
 <h3 align="left">Connect with me:</h3>
