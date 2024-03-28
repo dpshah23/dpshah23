@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpshah23&label=Profile%20views&color=0e75b6&style=flat" alt="dpshah23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpshah23" alt="dpshah23" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=dpshah23"><img src="https://github-profile-trophy.vercel.app/?username=dpshah23" alt="dpshah23" /></a> </p>
 
 - 🔭 I’m currently working on **Expense Tracker , Way2Menu**
 
