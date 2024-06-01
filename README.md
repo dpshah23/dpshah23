@@ -31,6 +31,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpshah23&show_icons=true&locale=en&layout=compact" alt="dpshah23" /></p>
 
+# Leetcode Stats
+
+[![Deep's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=dpshah2307)](https://leetcode-stats-six.vercel.app/?username=dpshah2307&theme=dark)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dpshah23&show_icons=true&locale=en" alt="dpshah23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dpshah23&" alt="dpshah23" /></p>
