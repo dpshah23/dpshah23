@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=dpshah23"><img src="https://github-profile-trophy.vercel.app/?username=dpshah23" alt="dpshah23" /></a> </p>
 
 # LeetCode Stats
-[![Deep's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=dpshah2307&theme=dark)](https://leetcode.com/u/dpshah2307)
+[![Deep's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=dpshah2307)](https://leetcode.com/u/dpshah2307)
 
 - 🔭 I’m currently working on **Expense Tracker , Way2Menu**
 
