@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Portfolio Website](https://deep-shah.onrender.com/)
 
-- Resume [Resume Link](https://drive.google.com/file/d/11JRbOEc_yQrw21yNFi_x0rzpZ_ypO2tW/view)
+- Resume :- [Resume Link](https://drive.google.com/file/d/11JRbOEc_yQrw21yNFi_x0rzpZ_ypO2tW/view)
 
 
 <h3 align="left">Connect with me:</h3>
