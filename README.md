@@ -9,9 +9,9 @@
 # LeetCode Stats
 [![dpshah2307's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=dpshah2307&theme=Light)](https://leetcode.com/u/dpshah2307)
 
-- 🔭 I’m currently working on **Expense Tracker , Way2Menu**
+- 🔭 I’m currently working on **Project Management Tool , Way2Menu , Social Media Application**
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning , Natural Language Processing**
 
 - 💬 Ask me about **Python , flask , django , java , PHP , Machine Learning**
 
