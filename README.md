@@ -15,6 +15,8 @@
 
 - 💬 Ask me about **Python , flask , django , java , PHP , Machine Learning**
 
+- 🤝 I’m looking for help with **Web App Projects And Android Projects**
+
 - 📫 How to reach me **dpshah2307@gmail.com**
 
 - 📄 Know about my experiences [Portfolio Website](https://deep-shah.onrender.com/)
