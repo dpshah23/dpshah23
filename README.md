@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Portfolio Website](https://deep-shah.onrender.com/)
 
-- Resume :- [![Resume](./resume_deep.pdf)]
+- Resume :- [Resume](./resume_deep.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
