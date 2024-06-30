@@ -43,6 +43,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dpshah23&" alt="dpshah23" /></p>
 
+<p>[![Deep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dpshah23&bg_color=ffffff&color=000000&line=ff00ff&point=ffffff&area=true&hide_border=true)](https://github.com/dpshah23)</p>
 # Random Quotes
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
