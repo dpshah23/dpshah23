@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
                     
 
-[![](https://deep-github-visitor-info.onrender.com/api/v1/track/cQQgyxiKyirqkaiqoC7pKDA492pIhoyFs36PuI8Qo03PT1Hm7F)](https://deep-github-visitor-info.onrender.com/api/v1/track/cQQgyxiKyirqkaiqoC7pKDA492pIhoyFs36PuI8Qo03PT1Hm7F)
+[![](https://github-visitor-info.vercel.app/api/v1/track/cQQgyxiKyirqkaiqoC7pKDA492pIhoyFs36PuI8Qo03PT1Hm7F/)](https://github-visitor-info.vercel.app/api/v1/track/cQQgyxiKyirqkaiqoC7pKDA492pIhoyFs36PuI8Qo03PT1Hm7F/)
                     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpshah23&label=Profile%20views&color=0e75b6&style=flat" alt="dpshah23" /> </p>
 
