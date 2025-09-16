@@ -8,9 +8,6 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=dpshah23"><img src="https://github-profile-trophy.vercel.app/?username=dpshah23" alt="dpshah23" /></a> </p>
 
-# LeetCode Stats
-[![dpshah2307's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=dpshah2307&theme=Light)](https://leetcode.com/u/dpshah2307)
-
 - 🔭 I’m currently working on **Project Management Tool , Way2Menu , Social Media Application**
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning , Natural Language Processing**
