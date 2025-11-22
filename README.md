@@ -2,11 +2,13 @@
 <h3 align="center">A passionate Backend developer from India</h3>
                     
 
-[![](https://github-visitor-info.vercel.app/api/v1/track/cQQgyxiKyirqkaiqoC7pKDA492pIhoyFs36PuI8Qo03PT1Hm7F/)](https://github-visitor-info.vercel.app/api/v1/track/cQQgyxiKyirqkaiqoC7pKDA492pIhoyFs36PuI8Qo03PT1Hm7F/)
-                    
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dpshah23&label=Profile%20views&color=0e75b6&style=flat" alt="dpshah23" /> </p>
+<!--[![](https://github-visitor-info.vercel.app/api/v1/track/cQQgyxiKyirqkaiqoC7pKDA492pIhoyFs36PuI8Qo03PT1Hm7F/)](https://github-visitor-info.vercel.app/api/v1/track/cQQgyxiKyirqkaiqoC7pKDA492pIhoyFs36PuI8Qo03PT1Hm7F/) --> 
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=dpshah23"><img src="https://github-profile-trophy.vercel.app/?username=dpshah23" alt="dpshah23" /></a> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpshah23&label=Profile%20views&color=0e75b6&style=flat" alt="dpshah23" /> </p> 
+
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=dpshah23"><img src="https://github-profile-trophy.vercel.app/?username=dpshah23" alt="dpshah23" /></a> </p> 
+
+-🎓 I’m currently pursuing my B.Tech in Computer Science & Engineering from Nirma University, India.  
 
 - 🔭 I’m currently working on **Project Management Tool , Way2Menu , Social Media Application**
 
