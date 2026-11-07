@@ -9,10 +9,10 @@ Backend engineer (B.Tech CSE, Nirma University, 2028). I build payment integrati
 | Project | What it is | Stack |
 |---|---|---|
 <!-- | [payments-service](LINK) | Stripe test-mode service: idempotent charges, verified webhooks, duplicate/out-of-order event handling, double-entry ledger | Python, Django, PostgreSQL, Celery | -->
-| [Invyra]((https://github.com/dpshah23/Invyra)) | Invoice parsing pipeline with async task queues and multi-service architecture | Python, REST, task queues |
+| [Invyra]((https://github.com/dpshah23/Invyra)) | Invoice parsing pipeline with async task queues and multi-service architecture | Python, REST, task queues |  
 <!-- | [go-webhook-relay](LINK) | Go service that verifies webhook signatures and forwards events with retries | Go | -->
-| [ByteShrink](https://github.com/dpshah23/ByteShrink-Huffman-Based-File-Compression-Tool) | Huffman-coding compressor with bit-level I/O | C++ |
-| [Password Manager](https://github.com/dpshah23/Password-Manager-Using-Encryption) | Django app storing credentials encrypted with the `cryptography` library, Firebase auth | Python, Django, Firebase |
+| [ByteShrink](https://github.com/dpshah23/ByteShrink-Huffman-Based-File-Compression-Tool) | Huffman-coding compressor with bit-level I/O | C++ |  
+| [Password Manager](https://github.com/dpshah23/Password-Manager-Using-Encryption) | Django app storing credentials encrypted with the `cryptography` library, Firebase auth | Python, Django, Firebase |  
 
 <!--
 ## Open source
