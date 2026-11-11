@@ -4,7 +4,7 @@ Backend engineer (B.Tech CSE, Nirma University, 2028). I build payment integrati
 
 📍 Ahmedabad, India · ✉️ dpshah2307@gmail.com
 
-🔗 [LinkedIn](https://www.linkedin.com/in/dpshah23) · [LeetCode](https://leetcode.com/u/dpshah2307/) · [Portfolio](https://deep-shah.vercel.app) · [Resume](https://github.com/dpshah23/dpshah23/blob/main/resume_deep.pdf)
+🔗 [LinkedIn](https://www.linkedin.com/in/dpshah23) · [LeetCode](https://leetcode.com/u/dpshah2307/) · [Portfolio](https://deep-shah.vercel.app) · [Resume](https://github.com/dpshah23/dpshah23/blob/main/Deep_Shah_Resume1.pdf)
 
 ## Featured work
 
